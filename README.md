@@ -31,6 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyriekevin&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
   <picture>
