@@ -19,6 +19,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kyriekevin/kyriekevin/output/github-contribution-grid-snake.svg">
   </picture>
 
+  <figure><embed src="https://wakatime.com/share/@kyriekevin/62ebeaee-c145-4242-956e-36e704ebd624.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
