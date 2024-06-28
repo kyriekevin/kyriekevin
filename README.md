@@ -61,20 +61,17 @@ Sunday                   47 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             ████████████████░░░░░░░░░   62.66 % 
-JSON                     9 mins              █████████░░░░░░░░░░░░░░░░   36.89 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             ████████████████░░░░░░░░░   62.97 % 
-Neovim                   9 mins              █████████░░░░░░░░░░░░░░░░   37.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/06/2024 00:20:30 UTC
+ Last Updated on 28/06/2024 00:20:33 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
